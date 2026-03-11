@@ -1,4 +1,5 @@
----
+##Not Done By us, We are unaware of its author however it truly ressembles our domains AssistantLady.com & Miss.Lead##
+
 page_type: sample
 languages:
 - javascript
