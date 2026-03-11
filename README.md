@@ -1,15 +1,5 @@
-##Not Done By us, We are unaware of its author however it truly ressembles our domains AssistantLady.com & Miss.Lead##
+## Online 🌐 • AssistantLady.com  • Miss.Lead
 
-page_type: sample
-languages:
-- javascript
-- nodejs
-products:
-- msal-node
-- microsoft-entra-id
-description: "Add authentication to a Node.js web application with the Microsoft Authentication Library for Node.js (MSAL Node)."
-urlFragment: "ms-identity-node"
----
 
 # Express web application built with MSAL Node and Microsoft identity platform
 
